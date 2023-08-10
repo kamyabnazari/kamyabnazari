@@ -3,15 +3,15 @@
 
 <p align="center">
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamyabnazari&show_icons=true&theme=onedark&locale=en&card_width=500" alt="kamyabnazari" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamyabnazari&show_icons=true&theme=dark&locale=en&card_width=500" alt="kamyabnazari" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamyabnazari&theme=onedark&card_width=500" alt="kamyabnazari" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamyabnazari&theme=dark&card_width=500" alt="kamyabnazari" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamyabnazari&show_icons=true&locale=en&layout=compact&theme=onedark&card_width=500" alt="kamyabnazari" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamyabnazari&show_icons=true&locale=en&layout=compact&theme=dark&card_width=500" alt="kamyabnazari" />
 </p>
 
 <table align="center">
