@@ -82,7 +82,12 @@
 
 <h3 align="center">My Social's:</h3>
 <p align="center">
+  <a href="https://kamyabnazari.com" target="blank">
+    Portfolio
+  </a>
+</p>
+<p align="center">
   <a href="https://linkedin.com/in/kamyabnazari" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="kamyabnazari" height="30" width="30" />
+    LinkedIn
   </a>
 </p>
