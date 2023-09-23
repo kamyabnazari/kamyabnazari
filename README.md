@@ -67,7 +67,7 @@
   </tbody>
 </table>
 
-<h3 align="center">My Social's:</h3>
+<h3 align="center">Social's</h3>
 <p align="center">
   <a href="https://kamyabnazari.com" target="blank">
     Portfolio
