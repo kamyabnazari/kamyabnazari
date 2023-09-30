@@ -1,6 +1,4 @@
 <h1 align="center">Welcome 👋</h1>
-<h3 align="center">Everyone has a responsibility to reach one’s true potential.</h3>
-
 <table align="center">
   <thead>
     <tr>
@@ -66,15 +64,3 @@
     </tr>
   </tbody>
 </table>
-
-<h3 align="center">Social's</h3>
-<p align="center">
-  <a href="https://kamyabnazari.com" target="blank">
-    Portfolio
-  </a>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/kamyabnazari" target="blank">
-    LinkedIn
-  </a>
-</p>
