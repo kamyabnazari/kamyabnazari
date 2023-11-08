@@ -1,4 +1,5 @@
 <h1 align="center">Welcome 👋</h1>
+<h3 align="center">Everyone has a responsibility to reach one’s true potential.</h3>
 <table align="center">
   <thead>
     <tr>
