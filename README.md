@@ -4,5 +4,5 @@
   <a href="https://kamyabnazari.com">Website</a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamyabnazari/)https://www.linkedin.com/in/kamyabnazari/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kamyabnazari/">LinkedIn</a>
 </p>
