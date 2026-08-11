@@ -37,18 +37,6 @@ I’m Kamyab—a digital innovation professional building thoughtful software wh
       <p><code>GPT-3.5</code> <code>Prompt Engineering</code> <code>Research</code></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kamyabnazari/fair-energy-ai">Fair Energy AI ↗</a></h3>
-      <p>A demonstration of how AI systems used in energy management can be transparent and deliver fairer outcomes.</p>
-      <p><code>Svelte</code> <code>AI</code> <code>Energy</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kamyabnazari/epistle-engine">Epistle Engine ↗</a></h3>
-      <p>A unified frontend and backend project exploring a cohesive application experience.</p>
-      <p><code>Svelte</code> <code>Full-stack</code></p>
-    </td>
-  </tr>
 </table>
 
 <br />
